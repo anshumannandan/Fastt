@@ -1,10 +1,10 @@
 # <p align = "center"> Features </p>
 
 ### <p align = "center">1. Upload Bulk Data </p>
-![image](https://github.com/anshumannandan/Fastt/assets/93365821/0d53f5e4-be0f-4d11-9c9d-2d2a5379deeb)
+![image](https://github.com/anshumannandan/Fastt/assets/93365821/261f6a32-f3f4-4071-9298-689b07ade422)
 
 ### <p align = "center">2. Get all data from database </p>
-![image](https://github.com/anshumannandan/Fastt/assets/93365821/7a3379d1-d7d3-4a71-96c0-20f9ddb368b9)
+![image](https://github.com/anshumannandan/Fastt/assets/93365821/e083840e-e7e3-4c12-82bb-93fec30726fb)
 
 ## How to setup the project on your local server?
 
