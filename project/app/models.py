@@ -6,11 +6,11 @@ class Hindalco(Base):
 
     __tablename__ = "hindalco_data"
 
-    id_        = Column(Integer, primary_key=True)
-    datetime_  = Column(DateTime)
+    id         = Column(Integer, primary_key=True)
+    datetime   = Column(DateTime)
     close      = Column(Float)
     high       = Column(Float)
     low        = Column(Float)
-    open_      = Column(Float)
+    open       = Column(Float)
     volume     = Column(Integer)
     instrument = Column(String)

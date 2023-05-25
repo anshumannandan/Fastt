@@ -4,11 +4,11 @@ from datetime import datetime
 
 class HindalcoData(BaseModel):
 
-    datetime_  : datetime
+    datetime   : datetime
     close      : float
     high       : float
     low        : float
-    open_      : float
+    open       : float
     volume     : int
     instrument : str
 
